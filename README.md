@@ -1,2 +1,2 @@
 # OnlineRetail
-Mini Portfolio for Data Science
+Mini Portfolio Analisis Penjualan pada sebuah Ritel Online
