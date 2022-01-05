@@ -2,7 +2,7 @@
 Mini Portfolio Analisis Penjualan pada sebuah Ritel Online yang merupakan tugas individu dari Rakamin Trial Class
 
 ## Dataset
-Dataset didapat dari pihak Rakamin berupa CSV dengan ukuran 1067371x8 dengan penjelasan setiap kolom sebagai berikut:
+Dataset didapat dari pihak Rakamin berupa CSV dengan ukuran 1067371x8 dengan penjelasan setiap kolom sebagai berikut: <br>
 ● Invoice : Nomor invoice 6 digit yang ditetapkan secara unik untuk setiap transaksi. Jika kode ini dimulai dengan huruf 'C', itu menunjukkan pembatalan. <br>
 ● StockCode : Kode produk (barang). Angka 5 digit yang ditetapkan secara unik untuk setiap produk yang berbeda. <br>
 ● Description : Nama produk. <br>
